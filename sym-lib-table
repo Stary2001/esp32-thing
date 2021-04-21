@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Stary)(type Legacy)(uri /home/stary/develop/hardware/kicad-library/Stary.lib)(options "")(descr ""))
+  (lib (name eink)(type Legacy)(uri /home/stary/develop/hardware/esp32-reminder/hw/0.1/eink.lib)(options "")(descr ""))
+  (lib (name main-board-rescue)(type Legacy)(uri /home/stary/develop/hardware/esp32-reminder/hw/0.1/main-board-rescue.lib)(options "")(descr ""))
+)
