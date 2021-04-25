@@ -334,7 +334,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "button.kicad_pro",
+    "filename": "esp32-thing.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -368,7 +368,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "button.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
